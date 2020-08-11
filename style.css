@@ -1,0 +1,177 @@
+*{
+	/*margin: 0;
+	padding: 0;*/
+}
+
+h1 {
+	color:black;
+	margin: 0;
+	font-weight: bold;
+	font-family: arial;
+	font-size: 50px;
+}
+
+h2 {
+	color: grey;
+	margin: 0;
+	font-style: italic;
+}
+
+h3 {
+	margin-top: 50px;
+	margin-bottom: 0px;
+}
+
+.projects {
+	margin-top: 275px;
+	margin-bottom: 0px;
+}
+
+.introduction {
+		margin-top: 5px;
+}
+
+.info {
+	font-weight: bolder;
+	font-family: arial;
+	font-size: 1.17em;
+}
+
+.infodetail {
+	font-weight: normal;
+	font-family: arial;
+	font-size: 0.85em;
+}
+
+.contact {
+	margin-top: 80px;
+}
+
+.contact2 {
+	margin-top: 125px;
+}
+
+.contact3 {
+	margin-top: 170px;
+}
+
+ul {
+	padding-left: 25px;
+}
+
+body {
+	background-color: #303030;
+	font-family: calibri;
+	font-size: 24px;
+	font-weight: normal;
+}
+
+.container {
+	width: 1040px;
+	/*width: 80%;*/
+	margin: auto;
+}
+
+.box-1 {
+	background-color: #CFCFCF;
+	border: 5px #ACACAC solid;
+	padding: 20px;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #CFCFCF;
+}
+
+.linkbox {
+  float: left;
+  margin: 0;
+  padding: 2px;
+  padding-bottom: 0px;
+}
+
+.linkboxMiddle {
+  float: left;
+  margin: 0;
+  padding: 2px;
+  padding-bottom: 0px;
+}
+
+.linkimg {
+	 border: 3px solid #ACACAC;
+}
+
+a {
+	  margin: 0;
+  padding: 0;
+}
+
+.backArrow{
+		padding: 5px;
+		padding-left: 7px;
+}
+
+.footer {
+	width: 90px;
+	height: 90px;
+	background-color: grey;
+	margin: -100px;
+	margin-left: -95px;
+	border: 5px #ACACAC solid;
+	border-right: 5px #ACACAC solid;
+}
+
+
+h4 {
+	font-family: calibri;
+    font-size: 25px;
+	margin-bottom: 0px;
+	text-decoration: underline;
+	font-weight: bolder;
+	padding-left: 450px;
+	padding-top: 10px;
+}
+
+.downloadLinkFindTheWay {
+	text-align: center;
+	font-family: calibri;
+	font-size: 20px;
+	text-decoration: none;
+	margin-left: 452px;
+}
+
+.downloadLinkSpaceColony {
+	text-align: center;
+	font-family: calibri;
+	font-size: 20px;
+	text-decoration: none;
+	margin-left: 440px;
+}
+
+.downloadLinkBulletHell {
+	text-align: center;
+	font-family: calibri;
+	font-size: 20px;
+	text-decoration: none;
+	margin-left: 430px;
+}
+
+.downloadLinkCSWS {
+	text-align: center;
+	font-family: calibri;
+	font-size: 20px;
+	text-decoration: none;
+	margin-left: 463px;
+}
+
+iframe {
+		 border: 3px solid #ACACAC;
+		 margin-left: -4px;
+}
+
+.video {
+
+}

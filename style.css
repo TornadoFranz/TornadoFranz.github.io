@@ -131,41 +131,20 @@ h4 {
 	margin-bottom: 0px;
 	text-decoration: underline;
 	font-weight: bolder;
-	padding-left: 450px;
+	text-align: center;
 	padding-top: 10px;
 }
 
-.downloadLinkFindTheWay {
+
+
+.downloadLink {
 	text-align: center;
 	font-family: calibri;
 	font-size: 20px;
 	text-decoration: none;
-	margin-left: 452px;
 }
 
-.downloadLinkSpaceColony {
-	text-align: center;
-	font-family: calibri;
-	font-size: 20px;
-	text-decoration: none;
-	margin-left: 440px;
-}
 
-.downloadLinkBulletHell {
-	text-align: center;
-	font-family: calibri;
-	font-size: 20px;
-	text-decoration: none;
-	margin-left: 430px;
-}
-
-.downloadLinkCSWS {
-	text-align: center;
-	font-family: calibri;
-	font-size: 20px;
-	text-decoration: none;
-	margin-left: 463px;
-}
 
 iframe {
 		 border: 3px solid #ACACAC;
